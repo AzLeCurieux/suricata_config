@@ -1,0 +1,11 @@
+
+%YAML 1.1
+---
+
+# Do not edit, automatically generated on every restart.
+
+af-packet:
+  - interface: default
+    threads: auto
+    cluster-id: 131
+    tpacket-v3: yes
